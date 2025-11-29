@@ -15,6 +15,7 @@ const BASE_URL = 'https://api31-normal-myb.tmtreader.com';
 
 const ALLOWED_ORIGINS = [
   'http://localhost:5173',
+  'http://d23dbc702e41.ngrok-free.app',
   'http://127.0.0.1:5173',
   'https://dramakita-ochre.vercel.app'
 ];
